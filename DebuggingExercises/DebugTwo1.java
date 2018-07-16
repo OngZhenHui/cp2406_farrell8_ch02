@@ -2,7 +2,7 @@ public class DebugTwo1
 {
    public static void main(String[] args)
    {
-      double oneInt = 315.0;
+      int oneInt = 315;
       double oneDouble = 12.4;
       char oneChar = 'A';
       System.out.print("The int is ");
